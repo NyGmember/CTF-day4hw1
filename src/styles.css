@@ -1,1 +1,6 @@
 /* You can add global styles to this file, and also import other style files */
+
+body {
+    background: url('./assets/05_hangouts_green.jpg.png') top center no-repeat, rgb(148, 207, 148);
+    background-size: 100%, auto;
+}
